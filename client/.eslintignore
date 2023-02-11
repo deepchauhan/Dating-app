@@ -1,0 +1,10 @@
+*.png
+*.jpg
+*.css
+*.css.map
+*.scss
+package.json
+package-lock.json
+public/
+build/
+README.md
